@@ -1,7 +1,7 @@
 ## Greetings, Comrade!
 
 - 👋 Olá, mundo!
-- 👀 Atualmente estou me especializando em desenvolvimento de páginas web com especificação em back-end.
+- 👀 Atualmente estou cursando engenharia de software.
 - 👨‍💻 Iniciante e aspirante a desenvolvedor web full-stack.
 - 👨‍🔧 Técnico em Redes de Computadores.
 
