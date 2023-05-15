@@ -2,7 +2,7 @@
 
 - 👋 Olá, mundo!
 - 👀 Atualmente estou cursando engenharia de software.
-- 👨‍💻 Iniciante e aspirante a desenvolvedor web full-stack.
+- 👨‍💻 Iniciante e aspirante a engenheiro de software.
 - 👨‍🔧 Técnico em Redes de Computadores.
 
 <div align="center">
