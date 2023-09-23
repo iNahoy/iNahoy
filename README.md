@@ -1,8 +1,8 @@
 ## Greetings, Comrade!
 
 - 👋 Olá, mundo!
-- 👀 Atualmente estou cursando engenharia de software e daqui a um tempo, simultaneamente também eng. eletrônica.
-- 👨‍💻 Iniciante e aspirante a engenheiro de software.
+- 👀 Atualmente estou cursando engenharia de software e atualmente estou no meu segundo período de faculdade.
+- 👨‍💻 Começarei a fazer engenharia eletrônica simultâneamente apartir do mês de outubro.
 - 👨‍🔧 Técnico em Redes de Computadores.
 
 <div align="center">
