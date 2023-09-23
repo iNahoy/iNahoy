@@ -4,6 +4,7 @@
 - 👀 Atualmente estou cursando engenharia de software e atualmente estou no meu segundo período de faculdade.
 - 👨‍💻 Começarei a fazer engenharia eletrônica simultâneamente apartir do mês de outubro.
 - 👨‍🔧 Técnico em Redes de Computadores.
+- 🕓 Estou voltando a postar meus códigos recentemente, passei um tempo fora mas tá na hora de retornar.
 
 <div align="center">
   <a href="https://github.com/iNahoy">
