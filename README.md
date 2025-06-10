@@ -1,7 +1,7 @@
 ## Greetings, Comrade!
 
 - 👋 Olá, mundo!
-- 👀 Atualmente estou cursando engenharia de software e atualmente estou no meu segundo período de faculdade.
+- 👀 Atualmente estou cursando engenharia eletrônica na UFRPE, atualmente no quarto período
 - 👨‍💻 Começarei a fazer engenharia eletrônica simultâneamente apartir do mês de outubro.
 - 👨‍🔧 Técnico em Redes de Computadores.
 
