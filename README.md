@@ -2,7 +2,7 @@
 
 - 👋 Olá, mundo!
 - 👀 Atualmente estou cursando engenharia eletrônica na UFRPE, atualmente no quarto período
-- 👨‍💻 Começarei a fazer engenharia eletrônica simultâneamente apartir do mês de outubro.
+- 👨‍💻 Estou no momento me desenvolvendo em três setores principais sendo eles uso de shell, arduino e C#
 - 👨‍🔧 Técnico em Redes de Computadores.
 
 <div align="center">
