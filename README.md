@@ -1,8 +1,6 @@
 ## Greetings, Comrade!
-
-- 👋 Olá, mundo!
-- 👀 Atualmente estou cursando engenharia eletrônica na UFRPE, atualmente no quarto período
-- 👨‍💻 Estou no momento me desenvolvendo em três setores principais sendo eles uso de shell, arduino e C++
+- 👀 Atualmente estou cursando engenharia eletrônica na UFRPE, atualmente no sexto período
+- 👨‍💻 Estou no momento me desenvolvendo em três setores principais sendo eles uso de Rust, Shell e Python
 - 👨‍🔧 Técnico em Redes de Computadores.
 
 <div align="center">
