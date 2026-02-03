@@ -31,16 +31,11 @@
 
   <br/><br/>
 
-  ### 📊 GitHub Stats
+  ### 📊 Repository & Code Stats
   
-  <a href="https://github.com/iNahoy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iNahoy&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
+  <img src="https://github.com/iNahoy/iNahoy/blob/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
   <br/>
-
-  <a href="https://github.com/iNahoy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNahoy&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"/>
-  </a>
+  <img src="https://github.com/iNahoy/iNahoy/blob/main/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="Top Languages" />
+  <img src="https://github.com/iNahoy/iNahoy/blob/main/profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Repos per Language" />
 
 </div>
