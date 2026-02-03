@@ -6,4 +6,5 @@
 <div align="center">
   <a href="https://github.com/iNahoy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNahoy&layout=compact&langs_count=9&theme=highcontrast"/>
+  </a>
 </div>
