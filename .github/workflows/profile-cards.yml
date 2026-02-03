@@ -1,0 +1,24 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # Executa a cada 24 horas
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite rodar manualmente quando quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # Escolha o tema aqui: solarized, dracula, radical, onedark, etc.
+          # Eu coloquei 'solarized' no código do README acima.
