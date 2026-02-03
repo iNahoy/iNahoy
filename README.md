@@ -48,12 +48,3 @@
   </a>
 
 </div>
-
-  ### 📊 Repository & Code Stats
-  
-  <img src="https://github.com/iNahoy/iNahoy/blob/main/profile-summary-card-output/ios-dark/0-profile-details.svg" alt="Profile Details" />
-  <br/>
-  <img src="https://github.com/iNahoy/iNahoy/blob/main/profile-summary-card-output/ios-dark/2-most-commit-language.svg" alt="Top Languages" />
-  <img src="https://github.com/iNahoy/iNahoy/blob/main/profile-summary-card-output/ios-dark/1-repos-per-language.svg" alt="Repos per Language" />
-
-</div>
