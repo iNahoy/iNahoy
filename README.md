@@ -5,7 +5,7 @@
   <p>
     🎓 <b>Estudante de Engenharia Eletrônica (6º Período) @ UFRPE</b><br>
     🔧 <b>Técnico em Redes de Computadores</b><br>
-    🌱 Atualmente focado no desenvolvimento com <b>Rust, Shell Script e Python</b>.
+    🌱 Atualmente focado no desenvolvimento com <b>Rust, Python, Java e Shell Script</b>.
   </p>
 
   ---
