@@ -14,7 +14,7 @@
 
   ---
   
-  ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
   
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -34,6 +34,20 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
   <br/><br/>
+
+  ### 📊 GitHub Stats
+  
+  <a href="https://github.com/iNahoy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNahoy&layout=compact&langs_count=8&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true&locale=pt-br"/>
+  </a>
+  
+  <br/>
+
+  <a href="https://github.com/iNahoy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iNahoy&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true&locale=pt-br"/>
+  </a>
+
+</div>
 
   ### 📊 Repository & Code Stats
   
