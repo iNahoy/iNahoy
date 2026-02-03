@@ -25,6 +25,7 @@
   
   <br/>
 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
@@ -33,7 +34,7 @@
   ### 📊 GitHub Stats
   
   <a href="https://github.com/iNahoy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iNahoy&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iNahoy&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
   
   <br/>
